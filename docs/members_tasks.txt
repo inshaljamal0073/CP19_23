@@ -1,0 +1,8 @@
+Inshal Jamal : Exploration of OpenCV  , Working to Find out pretrained models , How to call models in your program , Research about Detection more than one object in the same window , Live Streaming using Webcam with Object Detection ,  Final Presentation
+Zeeshan Imran : Speech to Text Library , Converting RGB Image to Black & White , Converting Image into List Form , Live Conversation of the Image into List Form
+Moiz Madni Khan : Setting up OpenCv with Python (Installation of Library) , Text to Speech Library , Time Delay in Python , Resizing of the Image , Converting Black & White Image to RGB 
+Hammad Ibrahim : Connecting Webcam with OpenCv , Capture and Save the Image to Local Computer , Capture Multiple Image on one click or button
+Muhammad Anas : Research about the Algorithms available that suits the project, Object Detection Sample with Image , Connecting Mobile Cam with Computer , Capture Image using Mobile Cam and Save in the Local Computer , Final Report
+
+
+All Members : Understanding of the Algorithm
